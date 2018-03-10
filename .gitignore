@@ -12,10 +12,12 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
-.Devops.impl
 *.iws
 *.iml
 *.ipr
+
+target
+.Devops.impl
 
 ### NetBeans ###
 nbproject/private/
